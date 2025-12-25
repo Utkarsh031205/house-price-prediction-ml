@@ -103,21 +103,7 @@ python house_price_prediction.py
 
 ---
 
-## 🎓 Viva / Exam Ready Summary
 
-This project predicts house prices using Linear Regression by training a model on CSV-based data, evaluating it on unseen test data, and visualizing the results.
-
----
-
-## 🚀 Possible Enhancements
-
-- Add more input features  
-- Use Multiple Linear Regression  
-- Apply Cross-Validation  
-- Add R² score  
-- Use a real-world dataset  
-
----
 
 ## 📜 License
 
